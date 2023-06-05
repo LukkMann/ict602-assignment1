@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator Electricity Bills</string>
+    <string name="copyright"> Copyright© Lukman 2023</string>
+    <string name="name">Name: Muhammad Lukmanhakim Bin Ahmad</string>
+    <string name="stud_id">Student Id: 2022947197</string>
+    <string name="group">Group: RCS240 5A</string>
+    <string name="prog_code">Programme Code: CS240 </string>
+</resources>
